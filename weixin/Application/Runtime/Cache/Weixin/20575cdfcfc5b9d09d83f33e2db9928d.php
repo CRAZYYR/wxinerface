@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>你们好,我是机器人!

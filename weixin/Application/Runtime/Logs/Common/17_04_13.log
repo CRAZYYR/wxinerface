@@ -1,0 +1,12 @@
+[ 2017-04-13T15:49:55+08:00 ] 127.0.0.1 /index.php/Weinxin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+ERR: 无法加载模块:Weinxin
+
+[ 2017-04-13T16:29:53+08:00 ] 127.0.0.1 /index.php/Index/getUserOpenId
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 无法加载模块:Index
+
